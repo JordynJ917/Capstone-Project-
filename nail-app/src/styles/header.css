@@ -1,0 +1,9 @@
+header {
+    background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(246, 100%, 74%, 1) 22%, hsla(257, 100%, 77%, 1) 46%, hsla(272, 100%, 80%, 1) 72%, hsla(295, 100%, 84%, 1) 100%);
+    display: flex !important;
+    position: relative;
+    justify-content: center;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+}

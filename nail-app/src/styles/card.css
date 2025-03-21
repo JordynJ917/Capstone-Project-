@@ -1,0 +1,37 @@
+.card-img-top {
+    max-width: 100%;
+    height: 56%;
+}
+
+.card {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px;
+    margin-bottom: 4em;
+    
+  }
+
+.card-body {
+    background: hsla(238, 100%, 71%, 1);
+
+background: linear-gradient(270deg, hsla(238, 100%, 71%, 1) 0%, hsla(246, 100%, 74%, 1) 22%, hsla(257, 100%, 77%, 1) 46%, hsla(272, 100%, 80%, 1) 72%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -moz-linear-gradient(270deg, hsla(238, 100%, 71%, 1) 0%, hsla(246, 100%, 74%, 1) 22%, hsla(257, 100%, 77%, 1) 46%, hsla(272, 100%, 80%, 1) 72%, hsla(295, 100%, 84%, 1) 100%);
+
+background: -webkit-linear-gradient(270deg, hsla(238, 100%, 71%, 1) 0%, hsla(246, 100%, 74%, 1) 22%, hsla(257, 100%, 77%, 1) 46%, hsla(272, 100%, 80%, 1) 72%, hsla(295, 100%, 84%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#696EFF", endColorstr="#897CFF", GradientType=1 );
+}
+
+.card-footer {
+    background-color: #f8adff;
+}
+
+.sale {
+    background: -webkit-linear-gradient(90deg, hsla(238, 100%, 71%, 1) 0%, hsla(246, 100%, 74%, 1) 22%, hsla(257, 100%, 77%, 1) 46%, hsla(272, 100%, 80%, 1) 72%, hsla(295, 100%, 84%, 1) 100%);
+}
+
+.favorite {
+    background-color: hsla(238, 100%, 71%, 1);
+}
